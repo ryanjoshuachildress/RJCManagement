@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724143976179",
+    "project_id": "rjc-management",
+    "storage_bucket": "rjc-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724143976179:android:0afb292defc6055fe4d186",
+        "android_client_info": {
+          "package_name": "com.ryanjoshuachildress.rjcmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724143976179-looj0b9lj4m8e836aid0fmqg0h6scpm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU7pE6CkW30-WIF9DpikfJn0eAgKWU69M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724143976179-looj0b9lj4m8e836aid0fmqg0h6scpm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
